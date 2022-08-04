@@ -1,0 +1,12 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+* for
+for sirve para iniciar un "bucle", o sea una secuencia de cosas que se van a realizar repetidamente cierta cantidad de veces
+
+* &&
+Este es el operador "Y (AND en ingles)" que sirve para validar si se cumplen a la vez ciertas condiciones para que este operador de positivo deben cumplirse todas las condiciones que evaluemos.
+
+* ||
+Este es el operador "O (OR en ingles)" que funciona muy similar al && pero da positivo si se cumple por lo menos una sola de las condiciones
+
+* !
+Esto significa "no (NOT en ingles)" que define que la validacion que vamos a realizar "no" debe cumplirse para que de positivo.
