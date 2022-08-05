@@ -1,0 +1,5 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays
+
+los Arrays son contenedores, serian por ejemplo como las hojas de un libro, cada hoja tiene un dato y la matriz o el Array puede contener tantas "hojas" como necesitemos
