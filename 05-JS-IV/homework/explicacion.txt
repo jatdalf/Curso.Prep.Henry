@@ -1,0 +1,21 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos
+Los objetos son "cosas" que tienen propiedades puede ser por ejemplo un nombre un color, cierta cantidad de algo...
+esos objetos aveces hacen otras cosas, por ejemplo una heladera seria como un objeto que es de color blanco tiene dos puertas 
+tiene una altura.. un ancho una profundidad.. y lo que hace la puerta por ejemplo es abrirse y cerrarse
+y la heladera lo que hace es enfriar en una parte hasta cierta temperatura y en la otra aun mas frio.
+
+Propiedades
+las propiedades son las partes de los objetos, en un objeto auto por ejemplo algunas propiedades serian las ruedas, el motor, las puertas etc.
+
+Métodos
+Los metodos son lo que hacen o pueden hacer ciertos objetos, siguiendo el ejemplo del auto, el metodo puede
+ser acelerar... frenar... girar...
+
+Bucle for…in
+es un metodo de iteracion que recorre las propiedades de un objeto
+
+Notación de puntos vs notación de corchetes
+La notacion por puntos llama a la propiedad en si, mientras la notacion por corchetes llama al contenido dentro de la propiedad
+siguiendo el ejemplo del auto, una propiedad del auto es auto.color y el corchete seria auto.color[azul]
