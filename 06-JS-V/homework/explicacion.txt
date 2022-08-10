@@ -1,0 +1,10 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+prototype
+    este concepto es como llamamos a una herencia de objetos, por ejemplo si tenemos un objeto auto, que arranca, prende luces, toca bocina, tiene puertas etc-
+    y queremos trabajar con otro igual, hacemos un prototipo de ese auto que tendra las mismas propiedades heredadas
+    a su vez podemos cambiarles propiedades, como nombre, color, cantidad de puertas... y crearle otras nuevas.
+
+
+Constructors (de Clases)
+    Los constructores son las formas en las que inicializamos un objeto, donde le aportamos los datos que vamos a necesitar para que opere.
